@@ -2,13 +2,13 @@ import React from 'react';
 
 const documents = [
   { id: 1, title: "Articles on my Literature Books", url: "https://drive.google.com/file/d/1s1NPDXKKDQ6ElG6zZWL_WkuY-NOyYZyf/view?usp=sharing" },
-  { id: 2, title: "News Clipping Poetry", url: "https://drive.google.com/file/d/1i3HmugDGFUCxloEj3IB-iURAhvXSTBXj/view?usp=sharing" },
+  { id: 2, title: "News Clipping on my Poetry Books", url: "https://drive.google.com/file/d/1i3HmugDGFUCxloEj3IB-iURAhvXSTBXj/view?usp=sharing" },
   { id: 3, title: "Reviews on my Poetry Books", url: "https://drive.google.com/file/d/1eoXEkLlWoHAGvvage_yID5YO0QYejaq5/view?usp=sharing" },
   { id: 4, title: "My Reviews of other Author's Books", url: "https://drive.google.com/file/d/1CHlRjSmXJ0RZ4vy0IKq8EMiM7gd7jWh2/view?usp=sharing" },
-  { id: 5, title: "Social Service clippings- Vidhya Foundationn", url: "https://drive.google.com/file/d/1CHlRjSmXJ0RZ4vy0IKq8EMiM7gd7jWh2/view?usp=sharing" },
-  { id: 6, title: "Document 6", url: "https://drive.google.com/file/d/1QOkBpB9ERiGIo_uOSJRQRp5L895jrUmA/view?usp=sharing" },
-  { id: 7, title: " Awards", url: "https://drive.google.com/file/d/1zJP8iDCPl9OwjWdpGJJ7jcF10-hs1aGJ/view?usp=sharing" },
-  { id: 8, title: "Important Certificates", url: "https://drive.google.com/file/d/1Nk_N77EqEfiPerthHqYQdMjDiS9-msIb/view?usp=sharing" },
+  { id: 5, title: "My Social Service clippings - Vidhya Foundationn", url: "https://drive.google.com/file/d/1C4vEqhUH1deu7mGLHFL9Dc4a6dDrcEMG/view?usp=sharing" },
+  { id: 6, title: "My Active Work on Disability Problems ", url: "https://drive.google.com/file/d/1QOkBpB9ERiGIo_uOSJRQRp5L895jrUmA/view?usp=sharing" },
+  { id: 7, title: " Awards", url: "https://drive.google.com/file/d/1so0uACWrdies7S3yPfFFzh0UyCIHZB6J/view?usp=sharing" },
+  { id: 8, title: "Important Certificates", url: "https://drive.google.com/file/d/12OANFmQL_ErgPtjMtzQYD2phjBuASd38/view?usp=sharing" },
  
 ];
 
