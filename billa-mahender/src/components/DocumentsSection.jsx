@@ -7,8 +7,9 @@ const documents = [
   { id: 4, title: "My Reviews of other Author's Books", url: "https://drive.google.com/file/d/1CHlRjSmXJ0RZ4vy0IKq8EMiM7gd7jWh2/view?usp=sharing" },
   { id: 5, title: "My Social Service clippings - Vidhya Foundationn", url: "https://drive.google.com/file/d/1C4vEqhUH1deu7mGLHFL9Dc4a6dDrcEMG/view?usp=sharing" },
   { id: 6, title: "My Active Work on Disability Problems ", url: "https://drive.google.com/file/d/1QOkBpB9ERiGIo_uOSJRQRp5L895jrUmA/view?usp=sharing" },
-  { id: 7, title: " Awards News Clippings", url: "https://drive.google.com/file/d/1so0uACWrdies7S3yPfFFzh0UyCIHZB6J/view?usp=sharing" },
-  { id: 8, title: "Important Certificates", url: "https://drive.google.com/file/d/12OANFmQL_ErgPtjMtzQYD2phjBuASd38/view?usp=sharing" },
+  { id: 7, title: "Study Proofs", url: "https://drive.google.com/file/d/1S5aCht5NUiRUypKKFQT_2WagoBDD14co/view?usp=sharing" },
+  { id: 8, title: " Awards News Clippings", url: "https://drive.google.com/file/d/1so0uACWrdies7S3yPfFFzh0UyCIHZB6J/view?usp=sharing" },
+  { id: 9, title: "Important Certificates", url: "https://drive.google.com/file/d/12OANFmQL_ErgPtjMtzQYD2phjBuASd38/view?usp=sharing" },
  
 ];
 
